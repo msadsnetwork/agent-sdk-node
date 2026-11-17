@@ -1,0 +1,4 @@
+{ "name": "@msadsnetwork/agent-sdk", "version": "0.1.0", "description": "MS Ads Agent Exchange server SDK (offers, events, HMAC request signing)", "main": "index.js",
+  "engines": { "node": ">=18" }, "license": "MIT", "files": ["index.js", "README.md", "LICENSE"], "scripts": { "test": "node test.js" },
+  "homepage": "https://docs.msadsnetwork.com", "repository": { "type": "git", "url": "https://github.com/msadsnetwork/agent-sdk-node" },
+  "author": "MS TECH IT PRIVATE LIMITED <partner@msadsnetwork.com>", "keywords": ["advertising", "openrtb", "agent", "msads"] }
